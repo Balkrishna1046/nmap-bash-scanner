@@ -95,18 +95,4 @@ Project Milestones:
 
 -Test the script on different IPs and domains
 
--Upload project to GitHub
-
--Add optional advanced features like HTML report generation or email alerts
-
-GitHub Submission Checklist:
-
-Public GitHub repository
-
-README.md with instructions and script
-
-scan.sh script file
-
-Screenshots (optional)
-
-Proper license file (LICENSE)
+-----------------------------------------------------------END----------------------------------------------------------------
